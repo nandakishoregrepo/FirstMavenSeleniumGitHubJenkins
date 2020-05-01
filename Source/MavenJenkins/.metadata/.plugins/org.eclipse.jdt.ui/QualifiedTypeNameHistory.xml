@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.sql.Driver"/>
-<fullyQualifiedTypeName name="javax.sql.rowset.WebRowSet"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
-<fullyQualifiedTypeName name="io.github.bonigarcia.wdm.WebDriverManager"/>
-<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
-</qualifiedTypeNameHistroy>
