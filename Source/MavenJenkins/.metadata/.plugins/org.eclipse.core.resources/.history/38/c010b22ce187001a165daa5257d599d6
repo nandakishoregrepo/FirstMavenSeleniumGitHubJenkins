@@ -1,0 +1,19 @@
+package com.java.mavenjenkins1.mavenjenkins1;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+    
+    @test
+    public void prgm1()
+    {
+    	System.out.println("Hello Nanda");
+    }
+}

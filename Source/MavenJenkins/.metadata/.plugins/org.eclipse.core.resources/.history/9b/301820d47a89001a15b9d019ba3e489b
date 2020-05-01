@@ -1,0 +1,21 @@
+package com.java.mavenjenkins1.mavenjenkins1;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	
+    public static void main( String[] args )
+    {
+    	
+    	WebDriver uidriver = new ChromeDriver();
+    	
+        System.out.println( "Hello World!" );
+    }
+
+}

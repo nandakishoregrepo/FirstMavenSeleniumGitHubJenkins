@@ -1,0 +1,21 @@
+package com.java.mavenjenkins1.mavenjenkins1;
+
+import java.sql.Driver;
+
+import javax.sql.rowset.WebRowSet;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	
+    public static void main( String[] args )
+    {
+    	
+    	
+        System.out.println( "Hello World!" );
+    }
+
+}
