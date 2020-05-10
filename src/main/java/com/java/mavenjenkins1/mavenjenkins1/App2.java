@@ -1,6 +1,6 @@
 package com.java.mavenjenkins1.mavenjenkins1;
 
-import org.apache.log4j.Logger;
+import org.apache.log4j.*;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -25,9 +25,12 @@ public class App2
     	
     	WebDriver uidriver;
     	WebDriverManager.chromedriver().setup();
+    	logs.info("Browser Configuration");
     	uidriver = new ChromeDriver();
     	uidriver.get("https://facebook.com/");
+    	logs.info("Launching Facebook");
     	uidriver.manage().window().maximize();
+    	logs.info("Browser maximizing");
     	uidriver.close();
         System.out.println( "Hello World!" );
     }
