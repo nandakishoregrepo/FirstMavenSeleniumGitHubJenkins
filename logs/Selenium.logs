@@ -1,8 +1,5 @@
-17:16:52,536 DEBUG io.github.bonigarcia.wdm.Preferences<strong>{1}</strong>:118 - Preference chrome=81 (valid until 2020-05-11 01:12:30)
-17:16:52,541 DEBUG io.github.bonigarcia.wdm.Preferences<strong>{1}</strong>:118 - Preference chrome81=81.0.4044.138 (valid until 2020-05-11 01:12:30)
-17:16:52,542  INFO io.github.bonigarcia.wdm.WebDriverManager<strong>{1}</strong>:615 - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
-17:16:52,559 DEBUG io.github.bonigarcia.wdm.WebDriverManager<strong>{1}</strong>:564 - Driver chromedriver 81.0.4044.138 found in cache
-17:16:52,560  INFO io.github.bonigarcia.wdm.WebDriverManager<strong>{1}</strong>:1113 - Exporting webdriver.chrome.driver as C:\Users\Admin\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe
-17:16:52,561  INFO devpinoyLogger<strong>{1}</strong>:28 - Browser Configuration
-17:17:01,453  INFO devpinoyLogger<strong>{1}</strong>:31 - Launching Facebook
-17:17:03,619  INFO devpinoyLogger<strong>{1}</strong>:33 - Browser maximizing
+17:59:51,753 DEBUG io.github.bonigarcia.wdm.Preferences<strong>{1}</strong>:118 - Preference chrome=81 (valid until 2020-05-11 01:12:30)
+17:59:51,758 DEBUG io.github.bonigarcia.wdm.Preferences<strong>{1}</strong>:118 - Preference chrome81=81.0.4044.138 (valid until 2020-05-11 01:12:30)
+17:59:51,759  INFO io.github.bonigarcia.wdm.WebDriverManager<strong>{1}</strong>:615 - Using chromedriver 81.0.4044.138 (since Google Chrome 81 is installed in your machine)
+17:59:51,779 DEBUG io.github.bonigarcia.wdm.WebDriverManager<strong>{1}</strong>:564 - Driver chromedriver 81.0.4044.138 found in cache
+17:59:51,780  INFO io.github.bonigarcia.wdm.WebDriverManager<strong>{1}</strong>:1113 - Exporting webdriver.chrome.driver as C:\Users\Admin\.m2\repository\webdriver\chromedriver\win32\81.0.4044.138\chromedriver.exe

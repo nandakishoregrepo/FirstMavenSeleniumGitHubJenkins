@@ -4,6 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.java.mavenjenkins1.mavenjenkins1.App"/>
+            <class name="com.java.mavenjenkins1.mavenjenkins1.App"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
